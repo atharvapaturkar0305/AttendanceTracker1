@@ -1,0 +1,22 @@
+Roll Number,Student Name,Status
+CS2023001,Rahul Sharma,Present
+CS2023002,Priya Patel,Present
+CS2023003,Amit Singh,Present
+CS2023005,Vikram Malhotra,Present
+CS2023006,Ritu Verma,Present
+CS2023008,Anita Desai,Present
+CS2023009,Rajiv Gandhi,Present
+CS2023011,Anil Kapoor,Present
+CS2023013,Vijay Mehta,Present
+CS2023014,Kavita Singh,Present
+CS2023015,Dinesh Patel,Present
+CS2023004,Neha Gupta,Absent
+CS2023007,Sanjay Kumar,Absent
+CS2023012,Sunita Rao,Absent
+CS2023010,Meera Reddy,Late
+
+SUMMARY,CS101 - Introduction to Programming,2025-04-07
+Present,11
+Absent,3
+Late,1
+Total,15

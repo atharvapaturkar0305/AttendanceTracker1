@@ -1,0 +1,22 @@
+Roll Number,Student Name,Status
+CS2023092,Geeta Shah,Present
+CS2023093,Vivek Choudhary,Present
+CS2023095,Deepak Singhania,Present
+CS2023096,Aruna Irani,Present
+CS2023098,Neetu Singh,Present
+CS2023099,Karan Johar,Present
+CS2023101,Arjun Rampal,Present
+CS2023103,Abhishek Bachchan,Present
+CS2023104,Katrina Kaif,Present
+CS2023105,Varun Dhawan,Present
+CS2023094,Kavita Rao,Absent
+CS2023097,Vishal Bhardwaj,Absent
+CS2023102,Vidya Balan,Absent
+CS2023091,Ravi Iyer,Late
+CS2023100,Zoya Akhtar,Late
+
+SUMMARY,CS202 - Operating Systems,2025-04-05
+Present,10
+Absent,3
+Late,2
+Total,15

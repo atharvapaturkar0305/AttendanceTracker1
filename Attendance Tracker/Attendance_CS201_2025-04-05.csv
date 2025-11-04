@@ -1,0 +1,22 @@
+Roll Number,Student Name,Status
+CS2023061,Kiran Mehta,Present
+CS2023063,Anil Sharma,Present
+CS2023064,Pooja Agarwal,Present
+CS2023065,Sanjay Kapoor,Present
+CS2023066,Rani Mukherjee,Present
+CS2023068,Juhi Chawla,Present
+CS2023069,Alok Nath,Present
+CS2023071,Anil Ambani,Present
+CS2023073,Sanjay Dutt,Present
+CS2023074,Kajol Devgan,Present
+CS2023075,Ajay Devgan,Present
+CS2023062,Sunita Verma,Absent
+CS2023067,Rakesh Roshan,Absent
+CS2023072,Sridevi Kapoor,Absent
+CS2023070,Madhuri Dixit,Late
+
+SUMMARY,CS201 - Database Systems,2025-04-05
+Present,11
+Absent,3
+Late,1
+Total,15
